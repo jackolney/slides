@@ -3,7 +3,8 @@ title       : Test Deck
 subtitle    : This is a test of slidify
 author      : Jack Olney
 job         : Science
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+framework   : io2012      # {io2012, html5slides, shower, dzslides, ...}
+# revealjs    : {theme: sky, transition: cube}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
@@ -35,5 +36,10 @@ Hello again.
 
 Goodbye.
 
+---
+
+## Slide 5
+
+This is a test.
 
 
